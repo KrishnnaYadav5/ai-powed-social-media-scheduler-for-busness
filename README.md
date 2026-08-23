@@ -37,6 +37,28 @@ An intelligent, multi-platform AI Social Media Scheduler built with **Next.js 14
 - **Background Job Scheduler**: [Upstash QStash](https://upstash.com/docs/qstash/overall/overview)
 
 ---
+# Deployed Link
+<img width="940" height="458" alt="1" src="https://github.com/user-attachments/assets/4625f651-3018-4f9c-a801-29f67a0c2fb3" />
+---
+<img width="938" height="443" alt="2 (1)" src="https://github.com/user-attachments/assets/d7c77278-398f-430c-92ab-112d40207e7e" />
+---
+<img width="938" height="443" alt="3 (1)" src="https://github.com/user-attachments/assets/fbeaf4d7-a8b6-45ef-9a99-6e9aa1d0b6ac" />
+---
+<img width="943" height="454" alt="4" src="https://github.com/user-attachments/assets/27cb16b6-130f-4d4f-9cb0-8d0f33a55cdb" />
+---
+<img width="943" height="454" alt="5 (1)" src="https://github.com/user-attachments/assets/1b9b6f2e-6602-41b8-8778-60de7fdcbc4a" />
+---
+<img width="915" height="453" alt="6 (1)" src="https://github.com/user-attachments/assets/4500d6de-6afe-43bb-ba1a-1420aba9379b" />
+---
+<img width="941" height="460" alt="7" src="https://github.com/user-attachments/assets/7476b920-7944-4f2a-b118-8e4cbcef5207" />
+---
+<img width="777" height="466" alt="8" src="https://github.com/user-attachments/assets/68b6a747-9683-459c-a7ab-480770760e22" />
+---
+<img width="777" height="466" alt="9 (1)" src="https://github.com/user-attachments/assets/18acbcbc-c687-44a4-8664-7730fb846bd9" />
+---
+<img width="777" height="466" alt="10 (1)" src="https://github.com/user-attachments/assets/8a3ec6be-500c-41ae-a975-bd71af064267" />
+
+---
 
 ## 🌐 Deploying to Vercel
 
