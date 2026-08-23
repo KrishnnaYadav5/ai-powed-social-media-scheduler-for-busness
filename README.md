@@ -77,6 +77,27 @@ An intelligent, multi-platform AI Social Media Scheduler built with **Next.js 14
 <img width="941" height="448" alt="19" src="https://github.com/user-attachments/assets/552f3461-f4ca-45dd-a902-d36e6333b793" />
 ---
 <img width="941" height="448" alt="20" src="https://github.com/user-attachments/assets/a5536c15-2a6e-49e1-9237-9bab99a5e5f5" />
+---
+<img width="922" height="464" alt="21" src="https://github.com/user-attachments/assets/16133395-efd8-48bb-a73f-e116d18d801e" />
+---
+<img width="922" height="464" alt="22" src="https://github.com/user-attachments/assets/67765cdd-72b5-4189-8f86-ac89862f6676" />
+---
+<img width="922" height="464" alt="23" src="https://github.com/user-attachments/assets/98b51b2d-afbf-4e57-aa47-c0e1cd6cec1c" />
+---
+<img width="922" height="464" alt="24" src="https://github.com/user-attachments/assets/d1ff3acf-f527-4fc8-98ec-a779c6925912" />
+---
+<img width="935" height="449" alt="25" src="https://github.com/user-attachments/assets/23edda8c-a98e-4881-a245-1c0c3417e5b2" />
+---
+<img width="935" height="449" alt="26" src="https://github.com/user-attachments/assets/9e7640ad-5426-4d22-a108-0006480fa3b1" />
+---
+<img width="935" height="449" alt="27" src="https://github.com/user-attachments/assets/f68199e6-197a-4051-b4f3-28192ad08ebc" />
+---
+<img width="944" height="460" alt="28" src="https://github.com/user-attachments/assets/cd2d1985-7f69-47f7-abde-56ffff26bded" />
+---
+<img width="944" height="460" alt="29" src="https://github.com/user-attachments/assets/0eaf91a2-5f33-4794-82bd-b7685ae8aabd" />
+---
+<img width="944" height="460" alt="30" src="https://github.com/user-attachments/assets/140e63b2-0f58-4230-a16c-ab6ae6c23db2" />
+---
 
 ---
 
