@@ -2,8 +2,7 @@
 Click Here 👉 https://ai-social-media-scheduler-for-busne.vercel.app/login?redirectTo=%2Fdashboard
 
 ---
-# Video Link
-Click Here 👉https://youtu.be/F5Dk38ST9gU?si=tt3EeuF-gMrUpkrc
+
 
 ---
 # 🚀 AI Social Media Scheduler
